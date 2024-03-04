@@ -1,0 +1,216 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3974296 */
+  src: url("/iconfont/iconfont.ttf") format("truetype");
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-domain:before {
+  content: "\e927";
+}
+
+.icon-typescript:before {
+  content: "\ecef";
+}
+
+.icon-nginx:before {
+  content: "\e683";
+}
+
+.icon-nssm:before {
+  content: "\e7a5";
+}
+
+.icon-pm2:before {
+  content: "\e60a";
+}
+
+.icon-uni-app:before {
+  content: "\e60c";
+}
+
+.icon-markdown:before {
+  content: "\ec0f";
+}
+
+.icon-https:before {
+  content: "\e89d";
+}
+
+.icon-centos:before {
+  content: "\ebf2";
+}
+
+.icon-life:before {
+  content: "\e681";
+}
+
+.icon-cookbook:before {
+  content: "\e78e";
+}
+
+.icon-poetry:before {
+  content: "\fcd5";
+}
+
+.icon-fitness:before {
+  content: "\e6d8";
+}
+
+.icon-flutter:before {
+  content: "\eb95";
+}
+
+.icon-tauri:before {
+  content: "\e6a8";
+}
+
+.icon-electron:before {
+  content: "\e9dd";
+}
+
+.icon-more:before {
+  content: "\e6d0";
+}
+
+.icon-me:before {
+  content: "\e67d";
+}
+
+.icon-about-website:before {
+  content: "\e7bf";
+}
+
+.icon-miniprogram:before {
+  content: "\e63e";
+}
+
+.icon-words:before {
+  content: "\e603";
+}
+
+.icon-website:before {
+  content: "\e66a";
+}
+
+.icon-desktop-dev:before {
+  content: "\e64d";
+}
+
+.icon-mobile-dev:before {
+  content: "\e613";
+}
+
+.icon-package:before {
+  content: "\e793";
+}
+
+.icon-micro-web:before {
+  content: "\e60b";
+}
+
+.icon-build-tools:before {
+  content: "\e679";
+}
+
+.icon-version-control:before {
+  content: "\e669";
+}
+
+.icon-talk:before {
+  content: "\e651";
+}
+
+.icon-calculation:before {
+  content: "\e66d";
+}
+
+.icon-unknown:before {
+  content: "\e636";
+}
+
+.icon-home:before {
+  content: "\e608";
+}
+
+.icon-note:before {
+  content: "\e609";
+}
+
+.icon-github:before {
+  content: "\e605";
+}
+
+.icon-lock:before {
+  content: "\e63d";
+}
+
+.icon-database:before {
+  content: "\e68f";
+}
+
+.icon-vue:before {
+  content: "\f25f";
+}
+
+.icon-html:before {
+  content: "\e602";
+}
+
+.icon-devops:before {
+  content: "\e604";
+}
+
+.icon-network:before {
+  content: "\e600";
+}
+
+.icon-code-file:before {
+  content: "\e601";
+}
+
+.icon-react:before {
+  content: "\e741";
+}
+
+.icon-skills:before {
+  content: "\e77d";
+}
+
+.icon-css:before {
+  content: "\ecae";
+}
+
+.icon-javascript:before {
+  content: "\e704";
+}
+
+.icon-web:before {
+  content: "\e687";
+}
+
+.icon-server:before {
+  content: "\e607";
+}
+
+.icon-software:before {
+  content: "\e697";
+}
+
+.icon-npm:before {
+  content: "\e685";
+}
+
+.icon-editor:before {
+  content: "\e68e";
+}
+
+.icon-debug:before {
+  content: "\e606";
+}
